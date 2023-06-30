@@ -1,2 +1,2 @@
 # DEMO
-learning github and git
+learning git and github for prepration
